@@ -2,3 +2,14 @@ x64/*
 *opendb
 */x64/*
 .vs/*
+
+ALL_BUILD.*
+ZERO_CHECK.*
+
+CMakeCache.txt
+Project.sln
+CMakeFiles/
+cmake_install.cmake
+
+Release/
+Debug/
